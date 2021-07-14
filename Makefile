@@ -5,4 +5,4 @@ install:
 lint:
 	pylint --disable=R,C main.py
 format:
-        black *.py
+	black *.py
